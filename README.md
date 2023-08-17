@@ -53,3 +53,9 @@ https://syncroom.yamaha.com/play/manual/index_pc.html
   
 - FAQ：
 https://syncroom.yamaha.com/play/faq/index_pc.html
+
+- 遅延時間の目安：
+あくまでも目処となる数値ですが、以下を目安にしてください。  
+30msec以下：ある程度の音楽セッションが実現できます。  
+45msec以下：リズムトラックに合わせて演奏する程度のことが可能です。  
+70msec以下：オケに合わせて歌をうたう程度のことが可能です。  
